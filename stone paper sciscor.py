@@ -21,7 +21,7 @@ while a=="y":
                     if(list[n]=="paper") and (b=="st"):
                         print("u loose")
                     else:
-                        if(list[n]=="paper") and (b=="pa"):
+                        if(list[n]=="paper") and (b=="sc"):
                             print("u win")
                         else:
                             if(list[n]=="scisor") and (b=="st"):
