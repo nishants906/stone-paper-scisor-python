@@ -1,2 +1,1 @@
-# stone-paper-scisor-python
-# Pyhton version of simple STONE-PAPER-SCISOR
+# Python version of STONE-PAPER-SCISOR game.
